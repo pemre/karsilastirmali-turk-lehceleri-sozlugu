@@ -7072,10 +7072,8 @@ uğuldamak
 uğultu
 uğur
 uğurlamak
-
-
 ukalâ
-ükde
+ukde
 ulamak
 ulaşım
 ulaşmak
@@ -7083,15 +7081,15 @@ ulu
 ulumak
 ulu orta
 --- page_928_left.png ---
-ulüş
+ulus
 ulusal
-vluslararası
-sivi
+uluslararası
+ulvi--.
 umacı
 umde
 ummak
-umümi
-umümiyetie
+umümi--.
+umümiyetie--.
 umursamak
 umut
 un
@@ -7106,12 +7104,11 @@ usanç
 usanmak
 uslanmak
 uslu
-ustâ
+usta
 ustura
 usturuplu
 usul
-usulca,
-usul usul
+usulca, usul usul
 uşak
 --- page_932_left.png ---
 ut
@@ -7124,8 +7121,7 @@ uyanmak
 uyarı
 uyarmak
 uydu
-uydurma,
-uyduruk
+uydurma, uyduruk
 uydurmak
 uygar
 uygulamak
@@ -7141,10 +7137,8 @@ uyuklamak
 uyum
 uyumak
 uyur gezer
-uyuşmak (kol
-vb. İçin)
-uyuşmak
-(anlaşma)
+uyuşmak (kol vb. için)
+uyuşmak (anlaşma)
 uyuşmazlık
 uyuşturucu
 uyuşuk
@@ -7162,31 +7156,28 @@ uzlaşmak
 uzman
 uzun
 uzuv
-üzvİ
+uzvi--.
 --- page_938_left.png ---
-ücrâ
+ücrā
 ücret
 üç
 üçgen
 üç kâğıtçı
-üflemek,
-üfürmek
+üflemek, üfürmek
 üfürük
 üleşmek
 ülke
 ülkü
 ümit
 ümmet
-ümmi
+ümmi--.
 ün
-ünlem
-(gramer)
+ünlem (gramer)
 ünlü
 ünlü (gramer)
 --- page_940_left.png ---
 ünsiyet
-ünsüz
-(gramer)
+ünsüz (gramer)
 üremek
 üretici
 üretim
@@ -7196,10 +7187,9 @@ uzuv
 ürperti
 ürümek
 üs (askeri)
-üslüp
+üslüp--.
 üst
-üstü (para
-için)
+üstü (para için)
 --- page_942_left.png ---
 üstat
 üstelemek
@@ -7213,16 +7203,15 @@ için)
 üşenmek
 üşümek
 üşüşmek
-ütmek
-(oyunda)
+ütmek (oyunda)
 --- page_944_left.png ---
 ütü
 üvendire
 üvey
 üye
 üzengi
-üzfej)re
-Üzeri
+üz(e)re
+üzeri
 üzerine (dair)
 üzgün
 üzmek
@@ -7231,31 +7220,31 @@ için)
 --- page_946_left.png ---
 vaat
 vaaz
-vâcip
-vâde
-vâdeil (hesap)
-vâdi
+vācip
+vāde
+vādeli (hesap)
+vādi
 vah
-vaha
-vahömet
+vāha
+vahāmet
 vahim
 vahiy
 vahşet
-vahşi
+vahşi--.
 --- page_948_left.png ---
-vaiz
+vāiz
 vakar
-vakletmek
+vakfetmek
 vakıf
-vâki olmak
-vaklt
-vaktâki
+vāki olmak
+vakit
+vaktāki
 vaktiyle
 vakur
-vali
-vâlide
+vāli
+vālide
 valiz
-vallâhi
+vallāhi
 vana
 vantilâtör
 --- page_950_left.png ---
@@ -7264,100 +7253,96 @@ var
 varak
 vardiya
 varil
-vâris
-vârit
+vāris
+vārit
 varlık
 varlıklı
 varmak
 var sayım
 vasat (orta)
 vasat (ortam)
-vasati
+vasati--.
 --- page_952_left.png ---
 vasıf
-vâsıl olmak
-vâsıta
-vasi
+vāsıl olmak
+vāsıta
+vasi--.
 vasistas
 vasiyet
-vasiyetnâm e
+vasiyetnāme
 vatan
-vâveylâ
+vāveylâ
 vay
 vazetmek
 vazgeçmek
-vâzih
-vazife
-vazifeşinas
+vāzıh
+vazife--.
+vazifeşinas--.
 --- page_954_left.png ---
 vaziyet
 vazo
 ve
-vebâ
+vebā
 vebal
-vecibe
+vecibe--.
 vecit
 veciz
-vecize
+vecize--.
 veçhe
-vedâ
-vedölaşmak
-vefâ
-vetâkâr
+vedā
+vedālaşmak
+vefā
+vefākâr
 vefat
 vehim
 --- page_956_left.png ---
 vekâlet
-vekâlet
-(bakanlık)
+vekâlet (bakanlık)
 vekâleten
 vekil
 velet
-velev,
-velevki
-velhösil
-veli
-veliaht
-velinimet
-velüt
+velev, velevki
+velhāsıl
+veli--.
+veliaht--.
+velinimet--.
+velüt--.
 velvele
-verâset
+verāset
 verem
 veresiye
 --- page_958_left.png ---
 vergi
 veri
-verlm
+verim
 verimli
 vermek
-vesâire (vs.,
-vb.)
-vesika
-vesile
+vesāire (vs., vb.)
+vesika--.
+vesile--.
 vestiyer
 vesvese
-veyâ,
-veyâhut
+veyā, veyāhut
 vezin
 vezir
 vezne
 veznedar
-vicik vicik
+vıcık vıcık
 --- page_960_left.png ---
-vıdı vidi
+vıdı vıdı
 vınlamak
 vızıldamak
 vızıltı
-vızır vizir
+vızır vızır
 vicdan
-vicdânen
-vicdöni
+vicdānen
+vicdāni--.
 vida
 vilâyet
 vinç
 viraj
-viran
-virâne
+viran--.
+virâne--.
 --- page_962_left.png ---
 virgül
 vişne
@@ -7367,19 +7352,16 @@ viyak viyak
 vizite
 vizon (kürk)
 volkan
-vukü
-vuküat
-vukut
-vurdum
-duymaz
+vukü--.
+vuküat--.
+vukuf
+vurdum duymaz
 vurgu
 vurgulamak
-vurgun
-(spekülâsyon)
+vurgun (spekülâsyon)
 vurmak
 --- page_964_left.png ---
-vurmak
-(kurşunla)
+vurmak (kurşunla)
 vuslat
 vuzuh
 vücut
@@ -7387,16 +7369,14 @@ vüs'at
 --- page_966_left.png ---
 ya... ya (da)
 yaba
-yaban,
-yabâni
+yaban, yabāni
 yabancı
 yad
-yâd etmek
+yād etmek
 yadırgamak
-yâdigâr
+yādigâr
 yağ
-yağcı
-(dalkavuk)
+yağcı (dalkavuk)
 yağış
 yağlı boya
 yağma
@@ -7404,10 +7384,10 @@ yağmak
 --- page_968_left.png ---
 yağmalamak
 yağmur
-yâhu
-yâhut
+yāhu
+yāhut
 yaka
-yaka (Kiyi)
+yaka (kıyı)
 yakacak
 yakalamak
 yakamoz
@@ -7418,20 +7398,18 @@ yakışıklı
 yakışmak
 yakıt
 --- page_970_left.png ---
-yakinen
-yaklaşık
-(olarak)
+yakinen--.
+yaklaşık (olarak)
 yaklaşım
 yaklaşmak
 yakmak
-yâkut
+yākut
 yalak
 yalama
 yalamak
 yalan
 yalancı
-yalancıktan,
-yalandan
+yalancıktan, yalandan
 yalanlamak
 yalçın
 yaldız
@@ -7441,7 +7419,7 @@ yalı (ev)
 yalın
 yalın ayak
 yalıtkan
-yaltah
+yallah
 yalnız
 yalnız (ancak)
 yalpalamak
@@ -7451,8 +7429,7 @@ yama
 yamaç
 yamak
 --- page_974_left.png ---
-yamalamak,
-yamamak
+yamalamak, yamamak
 yaman
 yamru yumru
 yamuk
@@ -7463,32 +7440,30 @@ yanak
 yanardağ
 yanar döner
 yanaşmak
-yangin
+yangın
 yanık
 yanılgı
 yanılmak
 --- page_976_left.png ---
 yanıt
 yanıtlamak
-yâni
+yāni
 yankesici
 yankı
 yankılanmak
-yanlama,
-yanlamasına
+yanlama, yanlamasına
 yanlış
-yanlışlıkia
+yanlışlıkla
 yanmak
 yansımak
 yansız
 yapağı
 yapay
 yapı (bina)
-yapi (bünye)
+yapı (bünye)
 yapımcı
 --- page_978_left.png ---
-yapım eki
-(gramer)
+yapım eki (gramer)
 yapışık
 yapışmak
 yapıştırıcı
@@ -7496,8 +7471,7 @@ yapıt
 yapma
 yapmacık
 yapmak
-yapmak
-(yardımcı fil)
+yapmak (yardımcı fiil)
 yaprak
 yaptırım
 yar (uçurum)
@@ -7511,12 +7485,11 @@ yaralamak
 yaralı
 yaramak
 yaramaz
-yaramaz
-(çocuk İçin)
+yaramaz (çocuk için)
 yaranmak
 yarar (fayda)
 yarasa
-yarsşmak
+yaraşmak
 yaratık
 yaratmak
 yardakçı
@@ -7526,11 +7499,9 @@ yargı (hüküm)
 yargı (kazâ)
 yargıç
 yargılamak
-yarı,
-yarım
+yarı, yarım
 yarımada
-yarım
-yamalak
+yarım yamalak
 yarın
 yarış
 yarışmak
@@ -7538,22 +7509,20 @@ yarı yıl
 yarmak
 yas
 yasa
-yasa dişi
+yasa dışı
 yasak
 --- page_984_left.png ---
 yasaklamak
 yasal
 yasama
-yâsemin
+yāsemin
 yaslamak
 yassı
 yastık
 yaş (zaman)
 yaş (ıslak)
-yaş (göz
-yaşı)
-yaşa,
-yaşasın
+yaş (göz yaşı)
+yaşa, yaşasın
 yaşam
 yaşamak
 yaşam öyküsü
@@ -7565,7 +7534,7 @@ yaşlanmak
 yaşlı
 yatak
 yatak (mecrâ)
-yatakhâne
+yatakhāne
 yataklı vagon
 yatalak
 yatay
@@ -7573,29 +7542,27 @@ yatılı
 yatırım
 yatışmak
 yatmak
-yatsi
+yatsı
 --- page_988_left.png ---
 yavan
 yavaş
 yavaşlamak
-yâve
-yâver
+yāve
+yāver
 yavru
 yavuklu
 yay
-yaya,
-yayan
+yaya, yayan
 yaygara
 yaygın
-yayginlaşmak |;
-yayık |
+yaygınlaşmak
+yayık
 yayımlamak
 --- page_990_left.png ---
 yayın
 yayın evi
 yayla
-yaymak
-(sermek)
+yaymak (sermek)
 yaymak
 yayvan
 yaz
@@ -7603,12 +7570,10 @@ yazar
 yazgı (kader)
 yazı
 yazı (parada)
-yazıhâne
+yazıhāne
 yazık
-yazılı
-(imtihan)
-yazın (yaz
-vakti)
+yazılı (imtihan)
+yazın (yaz vakti)
 yazıt
 --- page_992_left.png ---
 yazlık
@@ -7622,9 +7587,9 @@ yeğen
 yeğlemek
 yeis
 yeknesak
-yekpâre
+yekpāre
 yekten
-yekün
+yekün--.
 --- page_994_left.png ---
 yel
 yele
@@ -7632,13 +7597,13 @@ yelek
 yelken
 yelkenli
 yelkovan
-yeliemek
-yelpâze
+yellemek
+yelpāze
 yeltenmek
 yem
 yemek (aş)
-yemek (fili)
-yemekhâne
+yemek (fiil)
+yemekhāne
 yemin
 yemiş
 yen
@@ -7654,34 +7619,28 @@ yer
 yer çekimi
 yerel
 yergi
-yerinde
-(uygun)
+yerinde (uygun)
 yerine
 yerleşik
 yerleşmek
-yerleştirmek
-(düzene
-koymak)
+yerleştirmek (düzene koymak)
 yerli
 yermek
 --- page_998_left.png ---
-yersiz
-(uygunsuz)
+yersiz (uygunsuz)
 yer yüzü
 yeşermek
 yeşil
 yeşim
 yetenek
-yeter,
-yeteril
+yeter, yeteril
 yetersiz
 yetim
-yetimhâne
+yetimhāne
 yetinmek
 yetişkin
 yetişmek
 yetişmiş
-Li
 yetki
 --- page_1000_left.png ---
 yetmek
@@ -7695,17 +7654,17 @@ yıkamak
 yıkıcı
 yıkıntı
 yıkmak
-yı
+yıl
 yılan
 yıldırım
-yıtdız
+yıldız
 yıl dönümü
 yılışık
 yılışmak
 --- page_1002_left.png ---
 yılmak
 yıpranmak
-yırtıcıfhayvan)
+yırtıcı (hayvan)
 yırtık
 yırtınmak
 yırtmak
@@ -7733,7 +7692,7 @@ yol (metot)
 yolcu
 yoldaş
 yollamak
-yollük
+yolluk
 yolmak
 --- page_1006_left.png ---
 yolsuzluk
@@ -7743,8 +7702,7 @@ yontmak
 yorgan
 yorgun
 yormak
-yormak
-(yorumlamak)
+yormak (yorumlamak)
 yorulmak
 yorum
 yosma
@@ -7764,8 +7722,7 @@ yöntem
 yöre
 yörünge
 yudum
-yut,
-yuh
+yuf, yuh
 yufka
 yuhalamak
 --- page_1010_left.png ---
@@ -7778,7 +7735,7 @@ yumru
 yumruk
 yumurta
 yumurtlamak
-. yumuşak
+yumuşak
 yumuşamak
 yurt
 yurttaş
@@ -7791,14 +7748,12 @@ yüce
 --- page_1012_left.png ---
 yücelmek
 yük
-yüklem
-(gramer)
+yüklem (gramer)
 yüklemek
 yüklük
 yüksek
 yüksek okul
-yüksek
-öğretim
+yüksek öğretim
 yükselmek
 yüksük
 yüksünmek
@@ -7811,77 +7766,70 @@ yürümek
 yürürlük
 yüz (sayı)
 yüz (çehre)
-yüz (üsti
-kısım)
-yüzde (*)
-yüzden,
-yüzünden
+yüz (üst kısım)
+yüzde (%)
+yüzden, yüzünden
 yüzey
 yüzgeç
 yüz karası
-yözleşmek
-yüzmek
-(suda)
-yüzmek
-(soymak)
+yüzleşmek
+yüzmek (suda)
+yüzmek (soymak)
 yüz numara
 yüz ölçümü
 --- page_1016_left.png ---
 yüzsüz
 yüzük
 yüzükoyun
-yüzük
-parmağı
-yözyil
+yüzük parmağı
+yüzyil
 --- page_1018_left.png ---
-zaat
-zabit
-zâbıta
+zaaf
+zabıt
+zābıta
 zafer
-zâtiyet
-zâhir
-zahire
-zâhlran
-zöhiri
+zāfiyet
+zāhir
+zahire--.
+zāhiren
+zāhiri--.
 zahmet
-zâlim
+zālim
 zam
 zaman
-zaman aşimi
-zamâne
+zaman aşımı
+zamāne
 zamanlamak
 --- page_1020_left.png ---
 zambak
-zamir
-(gramer)
+zamir (gramer)
 zamk
 zampara
 zan
-zanâat
-zanâatkâr
+zanāat
+zanāatkâr
 zangırdamak
 zangır zangır
 zannetmek
-zapt eimek
+zapt etmek
 zar (anatomi)
 zar (oyunda)
-zarâfet
+zarāfet
 zarar
 --- page_1022_left.png ---
 zararına
-zarf (mektup
-Için)
+zarf (mektup için)
 zarf (gramer)
 zarfında
-zarit
-zarüret
-zarüri
+zarif
+zarüret--.
+zarüri--.
 zat
-zâten
+zāten
 zavallı
 zayıf
 zayıflamak
-zâylat
+zāyiat
 zedelemek
 zehir
 --- page_1024_left.png ---
@@ -7891,7 +7839,7 @@ zekât
 zeki
 zelzele
 zemberek
-zembll
+zembil
 zemin
 zenci
 zengin
@@ -7899,35 +7847,34 @@ zerre
 zevat
 zevce
 zevç
-zevk
+zevk--.
 --- page_1026_left.png ---
-zevkli (iş)
+zevkli (iş)--.
 zevzek
 zeytin
 zeytin yağı
 zıddiyet
 zıkkım
 zımba
-zimnen
-zımni
-zımpara
-kâğıdı
+zımnen
+zımni--.
+zımpara kâğıdı
 zındık
-ztpçıktı
+zıpçıktı
 zıpkın
 zıplamak
-zirdeli
+zırdeli
 zırh
 --- page_1028_left.png ---
-zınit
+zırıltı
 zırlamak
 zırnık
 zırt pırt
-zirva
+zırva
 zırvalamak
 zıt
 zifaf (gecesi)
-zifiri
+zifiri--.
 zift
 zihin
 zihnen
@@ -7938,23 +7885,23 @@ zikretmek
 zikzak
 zil
 zillet
-zli zurna
-zinâ
+zil zurna
+zinā
 zincir
 zindan
 zinde
-zirâ
-zirâat
+zirā--.
+zirāat
 zirve
-ziyâde
-ziyâfet
+ziyāde
+ziyāfet
 --- page_1032_left.png ---
 ziyan
-ziyâret
+ziyāret
 ziynet
 zonklamak
 zor
-zorâki
+zorāki
 zorba
 zorla
 zorlamak
@@ -7963,7 +7910,7 @@ zuhur
 zulmetmek
 zulüm
 zurna
-züccâciye
+züccāciye
 --- page_1034_left.png ---
 züğürt
 zühul
@@ -7972,4 +7919,4 @@ zülüf
 zümre
 zümrüt
 züppe
-zürâfa
+zürāfa

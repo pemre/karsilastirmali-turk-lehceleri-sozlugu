@@ -39,7 +39,7 @@ aday
 ādet
 adım
 adımlamak
-ādi--.
+ādī
 ādil
 adres
 af
@@ -77,7 +77,7 @@ ahret
 ajan
 ajans
 ak
-ak ciğer--.
+ak ciğer
 ākıbet
 akıl
 akım
@@ -110,7 +110,7 @@ alâmet
 --- page_26_left.png ---
 alan
 alârm
-alay (askeri)--.
+alay (askerî)
 alay
 alçak
 alçalmak
@@ -133,7 +133,7 @@ alıntı
 alın yazısı
 alışık
 alışmak
-alış veriş--.
+alış veriş
 ālim
 alkış
 alkışlamak
@@ -154,7 +154,7 @@ amatör
 ambalâj
 ambar
 amblem
-ambülans--.
+ambülans
 amca
 --- page_32_left.png ---
 ameliyat
@@ -174,7 +174,7 @@ ancak (bağlayıcı)
 anı
 anıt
 --- page_34_left.png ---
-āni--.
+ānī
 anket
 anlam
 anlamak
@@ -221,18 +221,18 @@ artırmak
 artmak
 arz etmek
 arzu
-asabi--.
+asabī
 --- page_40_left.png ---
 asālet
 asansör
 āsāyiş
-asgari--.
+asgarī
 asıl
 asır
 āsi
 asil
 asker
-askeri--.
+askerī
 askı
 aslā
 aslan
@@ -252,7 +252,7 @@ aşınmak
 aşırı
 āşikâr
 āşinā
-aşiret--.
+aşīret
 --- page_44_left.png ---
 aşk
 aşmak
@@ -260,7 +260,7 @@ at
 ata
 atak
 atamak
-ata sözü--.
+ata sözü
 ateş
 atılmak
 atkı
@@ -312,7 +312,7 @@ ayyaş
 az
 āzā
 azalmak
-āzami--.
+āzamī
 azap
 azarlamak
 āzat
@@ -514,11 +514,11 @@ bıldır
 bırakmak
 bıyık
 biber
-biçāre--.
+bīçāre
 biçim
 biçmek (tahıl için)
 biçmek (kumaş için)
-bigane--.
+bīgane
 bilâhare
 --- page_80_left.png ---
 bilâkis
@@ -566,7 +566,7 @@ bisiklet
 bismillâh
 bit
 --- page_86_left.png ---
-bitaraf--.
+bītaraf
 bitişik
 bitişmek
 bitki
@@ -668,7 +668,7 @@ burs
 buruk (tad)
 burun
 buruşmak
-büse--.
+būse
 but
 buyruk
 buyurmak
@@ -780,7 +780,7 @@ cıvıltı
 cızırdamak
 cibinlik
 cici
-ciddi--.
+ciddī
 ciğer
 cihan
 cihangir
@@ -800,7 +800,7 @@ cinas
 cināyet
 cinnet
 cins
-cinsel, cinsi--.
+cinsel, cinsī
 cinsiyet
 cisim
 civar
@@ -828,7 +828,7 @@ cürmü meşhut
 cüsse
 cüz
 cüzdan
-cüz'i--.
+cüz'ī
 --- page_122_left.png ---
 çaba
 çabalamak
@@ -1072,18 +1072,18 @@ dağlamak
 daha (henüz)
 daha (sıfat derecesi)
 daha (ek olarak)
-dahi--.
-dāhi--.
-dāhili--.
+dahī
+dāhī
+dāhilī
 --- page_156_left.png ---
 dāimā
-dāimi--.
+dāimī
 dāir
 dāire (geometri)
 dāire (devlet dairesi)
 dāire (apartmanda)
-dakik--.
-dakika--.
+daḳik
+daḳīka
 daktilo
 dal
 dal (branş)
@@ -1121,7 +1121,7 @@ dar
 dar ağacı
 daralmak
 darbe
-darbe (hükümet d.)--.
+darbe (hükûmet d.)
 darbımesel
 darbuka
 --- page_162_left.png ---
@@ -1151,7 +1151,7 @@ dede
 dedikodu
 defa
 defetmek
-define--.
+defīne
 defnetmek
 --- page_166_left.png ---
 defol
@@ -1210,7 +1210,7 @@ demlemek
 demlenmek (içki içmek)
 demlik
 deneme
-deneme (edebi tür)--.
+deneme (edebî tür)
 denemek
 denetçi
 denetlemek
@@ -1259,7 +1259,7 @@ dert
 derviş
 desen
 destan
-destāni--.
+destānî
 deste
 destek
 desteklemek
@@ -1339,11 +1339,11 @@ dirilmek
 dirsek
 diş
 dişi
-divan (tarihi)--.
-divan (kitap)--.
+dīvan (tarihî)
+dīvan (kitap)
 divan (oturmak için)
 --- page_190_left.png ---
-divāne--.
+dīvāne
 diyānet
 diyar
 diye (sebep)
@@ -1516,16 +1516,16 @@ düz yazı
 --- page_212_left.png ---
 ebat
 ebe
-ebedi--.
+ebedī
 ebediyen
 ebeveyn
 ecdat
 ecel
-ecnebi--.
+ecnebī
 eczahāne
 edā
 edat (gramer)
-edebi--.
+edebī
 edebiyat
 edep
 edilgen (fiil)
@@ -1537,8 +1537,8 @@ efendim! (ne dediniz?)
 efendim? (buyrun)
 efendim
 efkâr
-efkārıumümiye--.
-etlātun(i)--.
+efkārıumūmiye
+etlātun(ī)
 efsāne
 efsun
 egemen
@@ -1563,7 +1563,7 @@ eğri
 ehemmiyet
 ehil
 --- page_218_left.png ---
-ehli--.
+ehlī
 ehliyet (şoför için)
 ehram
 ejder, ejderha
@@ -1577,7 +1577,7 @@ ekmek (ekin ekmek)
 ekmek
 ekran
 eksen
-ekseri--.
+ekserī
 ekseriyet
 --- page_220_left.png ---
 eksi
@@ -1648,7 +1648,7 @@ enāyi
 encam
 endam
 ender
-endişe--.
+endīşe
 enfes
 enfiye
 engebe
@@ -1770,7 +1770,7 @@ ezan
 ezber
 ezberden, ezbere
 ezberlemek
-ezeli--.
+ezelī
 ezgi
 eziyet
 ezmek
@@ -1779,8 +1779,8 @@ faal
 faāliyet
 fācia
 fāhişe
-fahri--.
-fāil (hukuki)--.
+fahrī
+fāil (hukukî)
 fāil (gramer)
 fāiz
 fakat
@@ -1790,16 +1790,16 @@ falan
 falan filān, falan feşmekân
 familya (biol.)
 --- page_248_left.png ---
-fāni--.
+fānī
 fanilâ
 faraş
 farazā
-farazi--.
+farazī
 faraziye
 fāre
 farfara
 fark
-farz (dini)--.
+farz (dînî)
 fasıl
 fāsıla
 fasulye
@@ -1810,10 +1810,10 @@ fatura
 faul
 fayans
 fayda
-fazilet--.
+fazīlet
 fazla
 fecāat
-feci--.
+fecī
 fedā
 fedāi
 fedākâr
@@ -1833,7 +1833,7 @@ ferāgat
 ferah (yer)
 ferah (sevinçlilik)
 ferāset
-ferdi--.
+ferdī
 --- page_254_left.png ---
 feribot
 ferman
@@ -1846,7 +1846,7 @@ fethetmek
 fetvā
 feveran
 fevkalâde
-fevri--.
+fevrī
 fezā
 fıçı
 --- page_256_left.png ---
@@ -1870,7 +1870,7 @@ fıstık
 fışkırmak
 fıtık
 fıtrat
-fıtri--.
+fıtrī
 fidan
 fidye
 figan
@@ -1887,16 +1887,16 @@ file
 filiz
 fincan
 firar
-firāri--.
-firuze--.
-fisebilillâh--.
+firārī
+firūze
+fīsebīlillâh
 fiske
 fiskos (etme)
 fiş (elektrik)
 fiş (alış veriş)
 fiş (kart)
 fişek (kurşun)
-fişek (havāi)--.
+fişek (havāī)
 fit
 --- page_262_left.png ---
 fitil
@@ -1916,7 +1916,7 @@ fuar
 --- page_264_left.png ---
 fuhuş
 fukarā
-fuzuli--.
+fuzūli
 füze
 --- page_266_left.png ---
 gaddar
@@ -1935,7 +1935,7 @@ gam
 --- page_268_left.png ---
 gammazlamak
 gamze
-ganimet--.
+ganīmet
 gar
 garābet
 garanti
@@ -2064,7 +2064,7 @@ gıdā
 gıdıklamak
 gıpta etmek
 gırtlak
-gıyāben, gıyābi--.
+gıyāben, gıyābī
 gıybet
 gibi
 gider
@@ -2244,11 +2244,11 @@ güven oyu
 güvercin
 güverte
 güvey
-güyā--.
+gûyā
 güz
 güzel
 güzergâh
-güzide--.
+güzīde
 güzün
 --- page_310_left.png ---
 haber
@@ -2262,7 +2262,7 @@ haç
 had
 hademe
 hadım
-hadis--.
+hadīs
 hādise
 --- page_312_left.png ---
 hāfız
@@ -2281,13 +2281,13 @@ hākān
 --- page_314_left.png ---
 hakāret
 hakem
-hakikat--.
-hakikaten--.
-hakiki--.
+haḳīkat
+haḳīkaten
+haḳīḳī
 hākim (yargıç)
 hākim (söz geçiren)
 hākimiyet
-hakir--.
+haḳir
 hakkında
 haklamak
 hâl (durum)
@@ -2302,9 +2302,9 @@ halbuki
 hāle
 halef
 hālen
-hāletirühiye--.
+hāletirūhiye
 halı
-halife--.
+halīfe
 hālis
 hālisāne
 --- page_318_left.png ---
@@ -2323,9 +2323,9 @@ hamam
 hamam böceği
 hamarat
 --- page_320_left.png ---
-hamāsi--.
+hamāsī
 hamdetmek
-hāmi--.
+hāmī
 hāmile
 hamle
 ham madde
@@ -2363,7 +2363,7 @@ hardal
 hareket
 harem
 harf
-hārici--.
+hāricī
 hāriciye
 hāriç
 hārika
@@ -2432,7 +2432,7 @@ havadar
 hava değişimi
 havādis
 hava gazı
-havāi--.
+havāī
 havalanmak
 havāle
 havāle (para havālesi)
@@ -2451,7 +2451,7 @@ havyar
 hayā
 hayal
 hayālet
-hayāli--.
+hayālī
 hayalperest
 hayat
 haydi
@@ -2477,8 +2477,8 @@ hazım
 hazır
 hazırlamak
 hazin
-hazine--.
-haziran--.
+hazīne
+hazīran
 hazmetmek
 hazret
 hazzetmek
@@ -2532,7 +2532,7 @@ heyhāt
 heykel
 heykeltıraş
 hezeyan
-hezimet--.
+hezīmet
 hıçkırık
 hıçkırmak
 hımhım
@@ -2562,7 +2562,7 @@ hibe
 hicap
 hiciv, hicviye
 hicran
-hicri--.
+hicrī
 hicvetmek
 hiç
 hiçbir
@@ -2575,8 +2575,8 @@ hikmet
 hilâfet
 hilâl
 --- page_354_left.png ---
-hile--.
-hilekâr--.
+hīle
+hīlekâr
 hilkat
 himāye
 himmet
@@ -2587,7 +2587,7 @@ hisar
 hisse
 hissedar
 hissetmek
-hissi--.
+hissī
 hitāben
 --- page_356_left.png ---
 hitābet
@@ -2597,7 +2597,7 @@ hizip
 hizmet
 hizmetçi
 hizmetkâr
-hoca (dini)--.
+hoca (dînî)
 hoca
 hodri meydan
 hokka
@@ -2637,11 +2637,11 @@ hörgüç
 höyük
 Hristiyan
 --- page_362_left.png ---
-hubübat--.
+hubūbat
 Hudā
 hudut
 hukuk
-huküki--.
+hukūḳi
 hulāsa
 hulyā
 hunhar
@@ -2649,14 +2649,14 @@ huni
 hurāfe
 hurda
 hurdahaş
-hüri--.
+hūri
 hurma
-hurüfat--.
+hurūfat
 --- page_364_left.png ---
-husümet--.
+husūmet
 husus
-husüsi--.
-husüsiyet--.
+husūsī
+husūsiyet
 hutbe
 huy
 huylanmak
@@ -2670,7 +2670,7 @@ hükmetmek
 --- page_366_left.png ---
 hüküm
 hükümdar
-hükümet--.
+hükûmet
 hükümlü
 hükümran
 hüner
@@ -2735,8 +2735,8 @@ ibret
 ibrik
 ibrişim
 icābet
-icap--.
-icat--.
+īcap
+īcat
 icāzet
 --- page_376_left.png ---
 icbar
@@ -2764,10 +2764,10 @@ içmek (sigara vb.)
 içten
 içtenlik
 içtimā
-içtimāi--.
-idam--.
+içtimāī
+īdam
 idāre
-idāri--.
+idārī
 --- page_380_left.png ---
 iddiā
 iddiācı
@@ -2775,7 +2775,7 @@ iddiālı
 idman
 idrak
 idrar
-itā--.
+īfā
 ifāde
 iffet
 iflâh
@@ -2818,14 +2818,14 @@ ihtişam
 ihtivā
 ihtiyaç
 ihtiyar
-ihtiyāri--.
+ihtiyārī
 ihtiyarlamak
 ihtiyat
 ihyā
 ikāme
 ikāmet
 ikāmetgâh
-ikaz--.
+īkaz
 --- page_388_left.png ---
 iken
 iki
@@ -2844,18 +2844,18 @@ ikrāmiye (piyangodan)
 iktibas
 iktidar (kudret)
 --- page_390_left.png ---
-iktidar (hükümet)--.
+iktidar (hükûmet)
 iktifā
-iktisādi--.
+iktisādī
 iktisat
 il
 ilâç
 ilâh
 ilâhe
-ilâhi--.
-ilâhi (müzik)--.
+ilâhī
+ilâhī (müzik)
 ilâhiyat
-ilân--.
+īlân
 ilâve
 ilçe
 --- page_392_left.png ---
@@ -2900,7 +2900,7 @@ illegal
 illet (hastalık)
 illet (sıfat)
 ilmek, ilmik
-ilmi--.
+ilmī
 ilmihal
 ilticā
 iltifat
@@ -2909,12 +2909,12 @@ iltihak
 iltihap
 iltihaplanmak
 iltimas
-imâ--.
-imal--.
-imālâthāne--.
+īmā
+īmal
+īmālâthāne
 imam
-iman--.
-imar--.
+īman
+īmar
 imdat (yardım)
 imdat!
 imece
@@ -2956,11 +2956,11 @@ inmek
 insaf
 insan
 insancıl
-insāni--.
-insāniyet (insâni olma)--.
-insanlık (insanlık alemi)--.
+insānī
+insāniyet (insânî olma)
+insanlık (insanlık âlemi)
 insanoğlu
-insiyāki--.
+insiyākī
 inşā
 inşaat
 inşallah
@@ -2979,8 +2979,8 @@ ipekli (kumaş)
 iplik
 ipotek
 iptal
-iptidāi--.
-iptidāi (fikir vb.)--.
+iptidāī
+iptidāī (fikir vb.)
 iptilâ
 --- page_408_left.png ---
 ip ucu
@@ -2990,7 +2990,7 @@ iri
 irin
 irkilmek
 irmik
-irsi--.
+irsī
 irsiyet
 irşat
 irtibat
@@ -3086,17 +3086,17 @@ ithaf
 ithal
 --- page_422_left.png ---
 itham
-itibar--.
-itibāren--.
-itibāri--.
+ītibar
+ītibāren
+ītibārī
 itici
-itidal--.
-itikat--.
-itimat--.
-itinā--.
-itiraf--.
-itiraz--.
-itiyat--.
+ītidal
+ītikat
+ītimat
+ītinā
+ītiraf
+ītiraz
+ītiyat
 itmek
 ittifak
 --- page_424_left.png ---
@@ -3106,9 +3106,9 @@ iyi
 iyileşmek
 iyimser
 iz
-izāfi--.
+izāfī
 izāfiyet
-izah--.
+īzah
 izci
 izdiham
 izdivaç
@@ -3136,7 +3136,7 @@ kabarmak
 kabız
 kābil
 kabil
-kabile--.
+kabīle
 kābiliyet
 kabir
 kabuk
@@ -3264,7 +3264,7 @@ kantin
 kānun
 --- page_446_left.png ---
 kānun (müzik âleti)
-kānuni--.
+kānunī
 kap
 kap (örtü)
 kapak
@@ -3382,13 +3382,13 @@ kasıntı
 kasırga
 kasıt
 kasıt (kötü niyet)
-kaside--.
+kasīde
 kasket
 kasmak
 kasnak
 kasten
 kastetmek
-kasti--.
+kastī
 kasvet
 kaş
 kaşağı
@@ -3414,7 +3414,7 @@ katılmak (iştirak)
 katılmak (gülmekten)
 katır
 katı yağ
-kat'i--.
+kat'ī
 kātil
 kâtip
 kat'iyen
@@ -3521,7 +3521,7 @@ kelle
 keman
 kement
 kemer (bel vb. için)
-kemer (mimâride)--.
+kemer (mîmârîde)
 kemik
 kemirmek
 kemiyet
@@ -3585,7 +3585,7 @@ keşke
 keşmekeş
 keten
 kevgir
-keyfi--.
+keyfī
 keyfiyet
 keyif
 keyiflenmek
@@ -3959,7 +3959,7 @@ kurnaz
 kursak
 kurşun (metal)
 kurşun
-kurşüni--.
+kurşūni
 kurşunlamak
 kurt
 kurt (küçük)
@@ -4101,7 +4101,7 @@ lâpa lâpa
 lâstik
 lâtif
 lâtife
-lâubāli--.
+lâubālī
 --- page_550_left.png ---
 lâv
 lâvabo
@@ -4131,7 +4131,7 @@ lider
 lif
 lig (spor)
 liman
-lime lime--.
+līme līme
 limit
 --- page_554_left.png ---
 limon
@@ -4184,10 +4184,10 @@ madde
 maddeci
 --- page_560_left.png ---
 maddeten
-maddi--.
+maddī
 mādem, mādemki
 māden
-mādeni--.
+mādenī
 māden suyu
 madrabaz
 mafsal
@@ -4195,17 +4195,17 @@ magazin
 mağara
 mağaza
 mağdur
-mağdüriyet--.
+mağdūriyet
 --- page_562_left.png ---
-mağlâbiyet--.
-mağlup--.
+mağlûbiyet
+mağlûp
 mağrur
 mahal
 mahalle
 mahallebi
-mahalli--.
+mahallī
 mahāret
-mahcübiyet--.
+mahcūbiyet
 mahcup
 mahdut
 mahfaza
@@ -4214,17 +4214,17 @@ māhir
 māhiyet
 --- page_564_left.png ---
 mahkeme
-mahküm--.
-mahkümiyet--.
+mahkûm
+mahkûmiyet
 mahlâs
-mahlük--.
+mahlûk
 mahmur
 mahmuz
 mahpus
 mahrem
 mahremiyet
 mahrum
-mahrümliyet--.
+mahrūmiyet
 mahsul
 mahsus
 --- page_566_left.png ---
@@ -4233,7 +4233,7 @@ mahvetmek
 mahzen
 mahzun
 mahzur
-maişet--.
+maīşet
 maiyet
 makāle
 makam
@@ -4248,13 +4248,13 @@ maksat
 mākul
 mal
 mala
-māli--.
+mālī
 mālik
 māliye
 māliyet
-mālul--.
-mālüm--.
-mālümat--.
+mālûl
+mālûm
+mālûmat
 malzeme
 mama
 māmāfih
@@ -4269,7 +4269,7 @@ mandal
 mandalina
 mandıra
 mānen
-mānevi--.
+mānevī
 māneviyat
 mangal
 māni (şiir türü)
@@ -4280,14 +4280,14 @@ mānidar
 mantar
 mantı
 mantık
-mantıki--.
+mantıḳī
 manyak
 manzara
 manzum
-manzüme--.
+manzūme
 maral
 marangoz
-marazi--.
+marazī
 mārifet
 --- page_574_left.png ---
 marş
@@ -4313,7 +4313,7 @@ mat (renk için)
 matah
 matara
 matbaa
-matbü--.
+matbū
 matbuat
 mātem
 matine
@@ -4338,8 +4338,8 @@ māzeret
 mazhar olmak
 mazı
 --- page_580_left.png ---
-māzi--.
-mazlüm--.
+māzī
+mazlûm
 māzur
 meālen
 meblâğ
@@ -4347,12 +4347,12 @@ meb'us
 mebzul
 mecal
 mecaz
-mecāzi--.
+mecāzī
 mecbur
-mecbüren--.
-mecbüri--.
+mecbūren
+mecbūrī
 --- page_582_left.png ---
-mecbüriyet--.
+mecbūriyet
 meccānen
 meclis
 meclis (toplantı)
@@ -4361,13 +4361,13 @@ mecnun
 mecrā
 meçhul
 meddah
-medeni--.
+medenī
 medet
 medrese
 mefhum
 --- page_584_left.png ---
-mefküre--.
-mefrüşat--.
+mefkûre
+mefrūşat
 meftun
 meğer, meğerse
 mehil
@@ -4389,22 +4389,22 @@ mel'un
 membā
 meme
 memleket
-memnü--.
+memnū
 memnun
-memnüniyet--.
-memnüniyetle--.
-mömur--.
+memnūniyet
+memnūniyetle
+mēmur
 --- page_588_left.png ---
-memuriyet--.
+mēmuriyet
 mendil
 menekşe
 menetmek
 menfaat
 menfaatperest
-menfi--.
+menfī
 mengene
 menkıbe
-mensübiyet--.
+mensūbiyet
 mensup
 mensur
 menşe
@@ -4432,7 +4432,7 @@ Merih
 merkep
 merkez
 merkez (kuruluş)
-merkezi--.
+merkezī
 merkeziyetçilik
 mermer
 mermi
@@ -4446,14 +4446,14 @@ meselâ
 mesele
 meshetmek
 mesken
-meskön--.
+meskûn
 meslek
-mesleki--.
+meslekī
 mesnet
-mesnevi--.
+mesnevī
 mest
 mes'ul
-mes'üliyet--.
+mes'ūliyet
 mes'ut
 meşakkat
 meş'ale
@@ -4461,12 +4461,12 @@ meş'ale
 meşe
 meşgale
 meşgul
-meşgüliyet--.
+meşgūliyet
 meşhur
 meşin
-meşrü--.
+meşrū
 meşrubat
-maşrütiyet--.
+maşrūtiyet
 meş'um
 metānet
 methetmek
@@ -4475,25 +4475,25 @@ metin (dayanıklı)
 --- page_598_left.png ---
 metot
 metres
-mevcüdiyet--.
+mevcūdiyet
 mevcut
 mevduat
-mevki--.
+mevḳi
 mevkuf
 Mevlâ
 mevlit
 mevsim
-mevzi (askeri)--.
-mevzii--.
-mevzilenmek--.
+mevzī (askerī)
+mevziī
+mevzīlenmek
 --- page_600_left.png ---
-mevzü--.
+mevzū
 mevzuat
 meydan
 meyhāne
 meyil
 meyletmek
-meyus--.
+mēyus
 meyve
 meyyal
 mezar
@@ -4501,10 +4501,10 @@ mezbaha
 meze
 mezhep
 meziyet
-mezkür--.
+mezkûr
 --- page_602_left.png ---
-mezun--.
-mâzuniyet--.
+mēzun
+mēzuniyet
 mıh
 mıknatıs
 mıntıka
@@ -4519,29 +4519,29 @@ mızmız
 mızrak
 mızrap
 --- page_604_left.png ---
-mide--.
+mīde
 midye
 miğfer
-mihāniki--.
+mihānikī
 mihenk
 mihmandar
 mihnet
 mihrak
 mihrap
 miktar
-milâdi--.
-milât--.
+mīlâdī
+mīlât
 millet
 milletlerarası
 millet vekili
-milli--.
+millī
 --- page_606_left.png ---
 milliyet
 milliyetçi
 milyar
 milyon
-mimar--.
-mimâri--.
+mīmar
+mīmârī
 mimlemek
 mināre
 minber
@@ -4549,9 +4549,9 @@ minder
 minnet
 minnettar
 minval
-miraç--.
-miras--.
-mirasyedi--.
+mīraç
+mīras
+mīrasyedi
 mis(k)
 --- page_608_left.png ---
 misāfir
@@ -4564,13 +4564,13 @@ miskin
 mit
 miting
 mitoloji
-miyar--.
+mīyar
 miyavlamak
 miyop
 mizaç
 --- page_610_left.png ---
 mizah
-mizāhi--.
+mizāhī
 mizanpaj
 mobilya
 modern
@@ -4597,9 +4597,9 @@ muāyenehāne
 muayyen
 muazzam
 mubah
-mücit--.
+mūcit
 --- page_614_left.png ---
-mücize--.
+mūcize
 mufassal
 muğlâk
 muhabbet
@@ -4647,11 +4647,11 @@ mukāvemet
 --- page_620_left.png ---
 mukavva
 mukāyese
-mukim--.
+muḳim
 muktedir
 mum
 mumya
-münis--.
+mūnis
 muntazam
 murākabe
 murat
@@ -4659,10 +4659,10 @@ murdar
 musahhih
 musallā (taşı)
 musallat
-musibet--.
+musībet
 --- page_622_left.png ---
-müsiki--.
-müsikişinas--.
+mūsiḳi
+mūsiḳişinas
 muska
 musluk
 mustarip
@@ -4671,20 +4671,20 @@ mutaassıp
 mutābakat
 mutābık
 mutasavvıf
-mütat--.
-müteber--.
-mütedil--.
-mütenā--.
+mūtat
+mūteber
+mūtedil
+mūtenā
 mutfak
 --- page_624_left.png ---
 mutlak
 mutlakā
-mutlakiyet--.
+mutlaḳiyet
 mutlu
 muttali
 muvāfakat
 muvaffak
-muvaffakiyet--.
+muvaffaḳiyet
 muvāfık
 muvakkat
 muvakkaten
@@ -4697,7 +4697,7 @@ muzaffer
 muzāheret
 muzāhir
 muzır
-müzip--.
+mūzip
 mübādele
 mübālâğa
 mübārek
@@ -4745,7 +4745,7 @@ mülâhaza
 mülâkat
 mülâyim
 mülk
-mülki--.
+mülkī
 mülkiyet
 mülteci
 mü'min
@@ -4757,13 +4757,13 @@ münāsebetsiz
 münāsip
 --- page_634_left.png ---
 müneccim
-münekkit--.
+müneḳḳit
 münevver
 münferit
 münhal
 münhasır
 müntesip
-münzevi--.
+münzevī
 müphem
 müptelâ
 müptezel
@@ -4779,7 +4779,7 @@ mürettip
 mürit
 mürşit
 mürteci
-mürüruzaman--.
+mürūruzaman
 müsāade
 müsābaka
 müsādeme
@@ -4801,12 +4801,12 @@ müstahak
 müstahdem
 müstahsil
 müstakbel
-müstakil--.
+müstaḳil
 --- page_640_left.png ---
 müstāmel
 müstear
 müstehcen
-müstehzi--.
+müstehzī
 müstemleke
 müstenit
 müstenkif
@@ -4815,7 +4815,7 @@ müsterih
 müstesnā
 müsteşar
 müsteşrik
-müstevli--.
+müstevlī
 müsvedde
 müşāhede
 --- page_642_left.png ---
@@ -4861,7 +4861,7 @@ müzevir
 --- page_648_left.png ---
 naaş
 nabız
-nādide--.
+nādīde
 nādir
 nādiren
 nafaka (çocuk için)
@@ -4872,11 +4872,11 @@ nāhoş
 nāil
 nakarat
 nakavt
-nakdi--.
+nakdī
 --- page_650_left.png ---
 nakış
-nakil--.
-nakit--.
+naḳil
+naḳit
 naklen
 nakletmek
 nakliyat, nakliye
@@ -4902,7 +4902,7 @@ nasıl
 nasılsa (her nasılsa)
 nasılsa (elbette)
 nasır
-nasihat--.
+nasīhat
 nasip
 nāsir
 --- page_654_left.png ---
@@ -4910,19 +4910,19 @@ nāşir
 naz
 nazar (değmek)
 nazaran
-nazari--.
+nazarī
 nazariye
 nazarlık
 nazım
 nāzır
 nāzik
 nāzikâne
-nazire--.
+nazīre
 nazlanmak
 ne
 --- page_656_left.png ---
 ne ... ne
-nebāti--.
+nebātī
 nebze
 necip
 nedāmet
@@ -4956,7 +4956,7 @@ neşe
 neşir
 neşretmek
 netāmeli
-netice--.
+netīce
 nevi
 nevruz
 ney
@@ -4969,10 +4969,10 @@ nicelik
 --- page_662_left.png ---
 niçin
 nifak
-nihâi--.
+nihâī
 nihāyet
 nikâh
-nimet--.
+nīmet
 ninni
 nisan
 nisap
@@ -5352,7 +5352,7 @@ perende
 pergel
 perhiz
 peri
-perişan--.
+perīşan
 periyodik
 permi
 perşembe
@@ -5367,7 +5367,7 @@ pespāye
 pestil
 peş
 peşin
-peşinen--.
+peşīnen
 peşkeş çekmek
 peşkir
 peştamal
@@ -5483,7 +5483,7 @@ rakam
 rakı
 --- page_730_left.png ---
 rākım
-rakip--.
+raḳip
 rakkāse
 ramak kalmak
 ramazan
@@ -5525,7 +5525,7 @@ renk
 resepsiyon
 resim
 resmen
-resmi--.
+resmī
 resmigeçit
 ressam
 rest çekmek
@@ -5554,13 +5554,13 @@ riyāset
 rosto
 rota
 rozet
-rubāi--.
+rubāī
 ruh
-rühi--.
+rūhī
 ruhsat
 ruj
 rumuz
-rutübet--.
+rutūbet
 rüsvā
 rüşvet
 rütbe
@@ -5679,9 +5679,9 @@ salt çoğunluk
 salya
 salyangoz
 saman
-samimi--.
+samīmī
 --- page_754_left.png ---
-samimiyet--.
+samīmiyet
 samur
 san'at
 san'atkâr
@@ -5728,7 +5728,7 @@ sarık
 sarılmak
 sarımsak, sarmısak
 sarışın
-sâri--.
+sārī
 sarih
 sarkaç
 --- page_760_left.png ---
@@ -5743,7 +5743,7 @@ sarp
 sarsıntı
 sarsmak
 sataşmak
-sathi--.
+sathī
 satıcı
 satıh
 --- page_762_left.png ---
@@ -5787,7 +5787,7 @@ sebep
 sebze
 seccāde
 secde
-seci--.
+secī
 seciye
 seçenek
 seçim
@@ -5823,12 +5823,12 @@ sel
 selâm
 selâmet
 selâmlamak
-selâmünaleyküm--.
+selâmünaleyküm
 sele
 selef
 selfservis
 semāver
-semāvi--.
+semāvī
 sembol
 semer
 --- page_772_left.png ---
@@ -5854,7 +5854,7 @@ serdetmek
 sergi
 sergilemek
 serhat
-seri--.
+serī
 serin
 serin kanlı
 serinlemek
@@ -5892,7 +5892,7 @@ sevinç
 sevişmek
 seviye
 sevk etmek
-sevkıtabii--.
+sevkıtabīī
 --- page_780_left.png ---
 sevmek
 seyāhat
@@ -5922,7 +5922,7 @@ sığıntı
 sığır
 sığmak
 sıhhat
-sıhhi--.
+sıhhī
 sık
 sıkı
 --- page_784_left.png ---
@@ -5934,7 +5934,7 @@ sıkışık
 sıkıyönetim
 sıkmak
 sıla
-sınāi--.
+sınāī
 sınamak
 sınav
 sınıf
@@ -6003,7 +6003,7 @@ sille
 silmek
 silo
 silsile
-simâ--.
+sīmā
 --- page_794_left.png ---
 simge
 simit
@@ -6011,7 +6011,7 @@ simsar
 sincap
 sindirim
 sindirmek (korkutarak)
-sine--.
+sīne
 sinek
 sinema
 sini
@@ -6134,7 +6134,7 @@ suç
 suçlamak
 suçlu
 suç üstü
-suistimal--.
+suistīmal
 suikast
 sulak
 sulamak
@@ -6145,14 +6145,14 @@ sulta
 sultan
 sulu boya
 sululuk
-sun'i--.
+sun'ī
 sunmak
 sur
 surat
 suratsız
-süre--.
-süret--.
-süretā--.
+sūre
+sūret
+sūretā
 susam
 susamak
 suskun
@@ -6161,11 +6161,11 @@ susmak
 suspus olmak
 susta
 suvarmak
-süfli--.
+süflī
 süklüm püklüm
 sükse
-sükün, sükünet--.
-süküt--.
+sükûn, sükûnet
+sükût
 sülâle
 sülük
 sülün
@@ -6228,7 +6228,7 @@ süzülmek (zayıflamak)
 şāhit
 şahlanmak
 şahsen
-şahsi--.
+şahsī
 şahsiyet
 şāibe
 --- page_822_left.png ---
@@ -6240,7 +6240,7 @@ süzülmek (zayıflamak)
 şakımak
 şakırdamak
 şakır şakır
-şaki--.
+şaḳī
 şaklaban
 şaklamak
 şakrak
@@ -6275,7 +6275,7 @@ süzülmek (zayıflamak)
 şarıltı
 şark
 şarkı
-şarkiyat--.
+şarḳiyat
 şarlatan
 şar şar
 şart
@@ -6313,7 +6313,7 @@ süzülmek (zayıflamak)
 şekil
 şekilci, şekilperest
 şeklen
-şekli--.
+şeklī
 şelâle
 şema
 --- page_832_left.png ---
@@ -6325,12 +6325,12 @@ süzülmek (zayıflamak)
 şerh
 şeriat
 şerit (yol için)
-şevk--.
+şevḳ
 şey
 şeyh
 şeyhülislâm
 şeytan
-şeytāni--.
+şeytānī
 --- page_834_left.png ---
 şık (zarif)
 şık (seçenek)
@@ -6353,7 +6353,7 @@ süzülmek (zayıflamak)
 şiar
 şiddet
 şifā
-şifāhi--.
+şifāhī
 şiir
 şikâyet
 şike
@@ -6377,7 +6377,7 @@ süzülmek (zayıflamak)
 şişman, şişko
 şişmanlamak
 şişmek
-şive--.
+şīve
 şofben
 şoför
 şom
@@ -6389,11 +6389,11 @@ süzülmek (zayıflamak)
 şu
 şuā
 şubat
-şübe--.
+şūbe
 şuh
-şüle--.
+şūle
 şura
-şürā--.
+şūrā
 şurup
 şut
 şuur
@@ -6420,12 +6420,12 @@ taban (ayak için)
 taban (bina için)
 tabanca
 tabetmek
-tābi--.
+tābī
 tabiat
 --- page_846_left.png ---
 tabiat Üstü
-tabii--.
-tabii (tabi)--.
+tabīī
+tabīī (tabi)
 tābiiyet
 tabip
 tābir (deyim)
@@ -6449,13 +6449,13 @@ tahayyül
 tahdit
 tahıl
 tāhin
-tahkikat--.
-tahkir--.
+tahḳikat
+tahḳir
 tahlil
 tahliye
 tahmin
 --- page_850_left.png ---
-tahminen--.
+tahmīnen
 tahribat
 tahrif, tahrifat
 tahrik
@@ -6463,7 +6463,7 @@ tahrip
 tahsil
 tahsildar
 tahsis
-tahsisat--.
+tahsīsat
 taht
 tahta
 tahta kurusu
@@ -6487,7 +6487,7 @@ takır tukur
 --- page_854_left.png ---
 takışmak
 tākibat
-tākiben--.
+tākīben
 tākip
 takke
 takla, taklak
@@ -6495,7 +6495,7 @@ taklit
 takma
 takmak
 takoz
-takriben--.
+takrīben
 taksim
 taksirat
 --- page_856_left.png ---
@@ -6507,7 +6507,7 @@ talan (etmek)
 talaş
 talebe
 talep
-tāli--.
+tālī
 tālih
 tālim
 tālimat
@@ -6568,8 +6568,8 @@ tārife
 tārih
 tārih (bitim)
 tārihçe
-tārihi--.
-tarikat--.
+tārihī
+tarīkat
 tarla
 tartaklamak
 tartı
@@ -6605,7 +6605,7 @@ taşmak
 taşra
 tat
 tatbik (etmek)
-tatbikat (askeri)--.
+tatbikat (askerī)
 tātil
 tatlı (şekerli yiyecek)
 tatmak
@@ -6642,7 +6642,7 @@ tebaa
 tebārüz
 tebdil
 tebelleş olmak
-teberrü--.
+teberrū
 tebessüm
 tebeşir
 tebligat
@@ -6650,19 +6650,19 @@ tebliğ (bildiri)
 tebrik
 tecāvüz
 --- page_874_left.png ---
-tecelli--.
+tecellī
 tecessüs
-tecil--.
+tēcil
 tecrübe
 teçhizat
-tedāi--.
+tedāī
 tedārik
 tedāvi
 tedbir
 tedhiş
 tedirgin
-tediye--.
-tedricen--.
+tēdiye
+tedrīcen
 teessüf
 teessür
 --- page_876_left.png ---
@@ -6676,7 +6676,7 @@ tefrika
 tefsir
 teftiş
 tehdit
-tehir--.
+tēhir
 tehlike
 tek
 tekâmül
@@ -6687,7 +6687,7 @@ teke
 tekel
 tekerlek
 tekil, teklik (gramer)
-tökit--.
+tēkit
 tekke
 teklif
 tekme
@@ -6706,10 +6706,10 @@ telâkki
 telâş
 telef (etmek)
 telefon etmek
-telif--.
+tēlif
 tel'in
 telkin
-tellâl--.
+tellâl
 telmih
 telsiz
 temas (dokunma)
@@ -6723,9 +6723,9 @@ tembih
 temel
 temel (binālarda)
 temelli
-temenni--.
-tömin etmek--.
-tömlnat--.
+temennī
+tēmin etmek
+tēminat
 temiz
 temizlemek
 temkin
@@ -6771,7 +6771,7 @@ tereddüt
 tereke
 terennüm
 tere yağı
-terfi--.
+terfī
 terhis
 terim
 terk etmek
@@ -6789,12 +6789,12 @@ tesādüf
 tesādüten
 tescil
 teselli
-tesir--.
-tesis--.
-tesisat--.
+tēsir
+tēsis
+tēsisat
 teskin
 teslim
-teslimiyet--.
+teslīmiyet
 tespih
 tespit
 --- page_892_left.png ---
@@ -6811,7 +6811,7 @@ teşkilât
 teşkilâtlanmak
 teşmil
 teşne
-teşri--.
+teşrī
 teşrif
 teşrifat
 --- page_894_left.png ---
@@ -6823,17 +6823,17 @@ tevārüs
 tevātür
 tevāzu
 tevcih
-tevdi--.
+tevdī
 teveccüh
 tevekkül
 tevellüt
-tevil--.
+tēvil
 --- page_896_left.png ---
-tevkif--.
+tevḳif
 tevzi, tevziat
 teyakkuz
 teyemmüm
-töyit--.
+tēyit
 teyp
 teyze
 tez (çabuk)
@@ -6852,7 +6852,7 @@ tezvirat
 tezyif
 tezyinat
 tıbben
-tıbbi--.
+tıbbī
 tıbbiye
 tığ
 tıka basa
@@ -6890,7 +6890,7 @@ tırtıl (hayvan)
 tırtıl
 tıynet
 ticāret
-ticāri--.
+ticārī
 tifo
 tifüs
 --- page_904_left.png ---
@@ -6950,7 +6950,7 @@ toprak
 toptan
 topuk
 topuz
-top yekün--.
+top yekûn
 torba
 torna
 tornavida
@@ -6980,8 +6980,8 @@ transfer
 tren
 tualet
 --- page_914_left.png ---
-tüfan--.
-tuteyli--.
+tūfan
+tufeylī
 tuğla
 tuhaf
 tuhāfiye
@@ -7084,12 +7084,12 @@ ulu orta
 ulus
 ulusal
 uluslararası
-ulvi--.
+ulvī
 umacı
 umde
 ummak
-umümi--.
-umümiyetie--.
+umūmī
+umūmiyetle
 umursamak
 umut
 un
@@ -7156,7 +7156,7 @@ uzlaşmak
 uzman
 uzun
 uzuv
-uzvi--.
+uzvī
 --- page_938_left.png ---
 ücrā
 ücret
@@ -7170,7 +7170,7 @@ uzvi--.
 ülkü
 ümit
 ümmet
-ümmi--.
+ümmī
 ün
 ünlem (gramer)
 ünlü
@@ -7187,7 +7187,7 @@ uzvi--.
 ürperti
 ürümek
 üs (askeri)
-üslüp--.
+üslûp
 üst
 üstü (para için)
 --- page_942_left.png ---
@@ -7230,7 +7230,7 @@ vahāmet
 vahim
 vahiy
 vahşet
-vahşi--.
+vahşī
 --- page_948_left.png ---
 vāiz
 vakar
@@ -7261,12 +7261,12 @@ varmak
 var sayım
 vasat (orta)
 vasat (ortam)
-vasati--.
+vasatī
 --- page_952_left.png ---
 vasıf
 vāsıl olmak
 vāsıta
-vasi--.
+vasī
 vasistas
 vasiyet
 vasiyetnāme
@@ -7276,18 +7276,18 @@ vay
 vazetmek
 vazgeçmek
 vāzıh
-vazife--.
-vazifeşinas--.
+vazīfe
+vazīfeşinas
 --- page_954_left.png ---
 vaziyet
 vazo
 ve
 vebā
 vebal
-vecibe--.
+vecībe
 vecit
 veciz
-vecize--.
+vecīze
 veçhe
 vedā
 vedālaşmak
@@ -7303,10 +7303,10 @@ vekil
 velet
 velev, velevki
 velhāsıl
-veli--.
-veliaht--.
-velinimet--.
-velüt--.
+velī
+velīaht
+velīnīmet
+velût
 velvele
 verāset
 verem
@@ -7318,8 +7318,8 @@ verim
 verimli
 vermek
 vesāire (vs., vb.)
-vesika--.
-vesile--.
+vesīka
+vesīle
 vestiyer
 vesvese
 veyā, veyāhut
@@ -7336,13 +7336,13 @@ vızıltı
 vızır vızır
 vicdan
 vicdānen
-vicdāni--.
+vicdānī
 vida
 vilâyet
 vinç
 viraj
-viran--.
-virâne--.
+vīran
+vīrāne
 --- page_962_left.png ---
 virgül
 vişne
@@ -7352,8 +7352,8 @@ viyak viyak
 vizite
 vizon (kürk)
 volkan
-vukü--.
-vuküat--.
+vukū
+vukūat
 vukuf
 vurdum duymaz
 vurgu
@@ -7398,7 +7398,7 @@ yakışıklı
 yakışmak
 yakıt
 --- page_970_left.png ---
-yakinen--.
+yaḳīnen
 yaklaşık (olarak)
 yaklaşım
 yaklaşmak
@@ -7589,7 +7589,7 @@ yeis
 yeknesak
 yekpāre
 yekten
-yekün--.
+yekûn
 --- page_994_left.png ---
 yel
 yele
@@ -7790,9 +7790,9 @@ zābıta
 zafer
 zāfiyet
 zāhir
-zahire--.
+zahīre
 zāhiren
-zāhiri--.
+zāhirī
 zahmet
 zālim
 zam
@@ -7822,8 +7822,8 @@ zarf (mektup için)
 zarf (gramer)
 zarfında
 zarif
-zarüret--.
-zarüri--.
+zarūret
+zarūrī
 zat
 zāten
 zavallı
@@ -7847,9 +7847,9 @@ zerre
 zevat
 zevce
 zevç
-zevk--.
+zevḳ
 --- page_1026_left.png ---
-zevkli (iş)--.
+zevḳli (iş)
 zevzek
 zeytin
 zeytin yağı
@@ -7857,7 +7857,7 @@ zıddiyet
 zıkkım
 zımba
 zımnen
-zımni--.
+zımnī
 zımpara kâğıdı
 zındık
 zıpçıktı
@@ -7874,7 +7874,7 @@ zırva
 zırvalamak
 zıt
 zifaf (gecesi)
-zifiri--.
+zifīrī
 zift
 zihin
 zihnen
@@ -7890,7 +7890,7 @@ zinā
 zincir
 zindan
 zinde
-zirā--.
+zīrā
 zirāat
 zirve
 ziyāde

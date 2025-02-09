@@ -1538,7 +1538,7 @@ efendim? (buyrun)
 efendim
 efkâr
 efkārıumūmiye
-etlātun(ī)
+eflātun(ī)
 efsāne
 efsun
 egemen
@@ -2610,7 +2610,7 @@ hop
 hoparlör
 hoplamak
 hor
-hortamak (aşağı görmek)
+horlamak (aşağı görmek)
 horlamak (uykuda)
 horoz
 horozlanmak
@@ -3468,7 +3468,8 @@ kayış
 kayıt
 kaymak (süt vb. kaymağı)
 kaymak
-kaymakam kaynak (su için)
+kaymakam
+kaynak (su için)
 kaynak (menşe)
 kaynak (araştırmalarda)
 kaynak (ısıyla kaynak yapma)

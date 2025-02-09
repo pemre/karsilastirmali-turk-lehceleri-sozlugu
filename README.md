@@ -23,16 +23,8 @@ Daha sonra bu resimleri yazıya çevirmek için OCR (Optical Character Recogniti
 
 Tüm bu kodlar için ChatGPT'den yardım aldım. Bana çok zaman kazandırdı.
 
-**TODO:** Çıktılar çok kaliteli değildi. Elimle bunları tek tek düzeltip temiz bir liste elde ettim: [tdk.md](./tdk.md)
+Çıktılar çok kaliteli değildi. Elimle bunları tek tek düzeltip temiz bir liste elde ettim: [sozluk-turkce-dizini.txt](./sozluk-turkce-dizini.txt)
 
-**TODO:** Daha sonra TDK'nin sitesinde listedeki sözcükleri tek tek arayıp sonuçları aldım. Bu işlemi [tdk.py](./tdk.py) dosyası yapıyor.
+Daha sonra TDK'nin sitesinde listedeki sözcükleri tek tek arayıp sonuçları aldım. Bu işlemi [fetch-words-from-tdk.py](./fetch-words-from-tdk.py) dosyası yapıyor.
 
-
-## YAPILACAKLAR
-
-* bul: bildircin
-* billûr
-* ā
-* boşaltmak
-* bugun
-* buz dolabı
+Burada da parantez içeren "alay (askerî)" gibi birden fazla anlamlı sözcük veya virgülle ayrılmış "biri, birisi" gibi sözcükler hata verdi. TDK da sanırım karakter tarama işlemi yapmış ve bazı sözcüklerde hatalar yapmış. Örneğin "muallak (ta)" sözcüğü "muailak (ta)" olarak kaydedilmiş, ya da "zevḳli (iş)", "zevli(iş) " olarak... Tüm bunları elle indirdim veya düzelttim.

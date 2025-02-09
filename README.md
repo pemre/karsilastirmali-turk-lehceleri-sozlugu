@@ -45,6 +45,6 @@ Tüm JSON dosyalarına `"$kitaptaki_turkce"` adlı bir özellik ekleyip kitapta 
     "turkce": "aferin", [...]
 ```
 
-Sonuçları alma sırasında "alay (askerî)" gibi parantez içeren, birden fazla anlamlı sözcük veya virgülle ayrılmış "biri, birisi" gibi sözcükler hata verdi. TDK da sanırım karakter tarama işlemi yapmış ve bazı sözcüklerde hatalar yapmış. Örneğin "muallak (ta)" sözcüğü "muailak (ta)" olarak kaydedilmiş, ya da "zevḳli (iş)", "zevli(iş) " olarak... Tüm bunları elle indirdim veya düzelttim.
+Sonuçları alma sırasında "alay (askerî)" gibi parantez içeren, birden fazla anlamlı sözcük veya virgülle ayrılmış "biri, birisi" gibi sözcükler hata verdi. TDK da sanırım karakter tarama işlemi yapmış ve bazı sözcüklerde hatalar yapmış. Örneğin "muallak (ta)" sözcüğü "muailak (ta)" olarak kaydedilmiş, ya da "zevḳli (iş)", "zevli(iş) " olarak... Tüm bunları elle indirdim veya düzelttim. Bazen yazım hatasından Türkiye Türkçesinde bulamadığım sözcükleri diğer dillerde aratıp buldum.
 
 **YAP:** Hala eksik sözcükler var: [YAP--eksik-sozcukler.txt](./YAP--eksik-sozcukler.txt)

@@ -27,4 +27,24 @@ Tüm bu kodlar için ChatGPT'den yardım aldım. Bana çok zaman kazandırdı.
 
 Daha sonra TDK'nin sitesinde listedeki sözcükleri tek tek arayıp sonuçları aldım. Bu işlemi [fetch-words-from-tdk.py](./fetch-words-from-tdk.py) dosyası yapıyor.
 
-Burada da parantez içeren "alay (askerî)" gibi birden fazla anlamlı sözcük veya virgülle ayrılmış "biri, birisi" gibi sözcükler hata verdi. TDK da sanırım karakter tarama işlemi yapmış ve bazı sözcüklerde hatalar yapmış. Örneğin "muallak (ta)" sözcüğü "muailak (ta)" olarak kaydedilmiş, ya da "zevḳli (iş)", "zevli(iş) " olarak... Tüm bunları elle indirdim veya düzelttim.
+Sonuçlar her bir sözcük için bir JSON dosyası olarak [./tdk-sitesinden-sozcukler](./tdk-sitesinden-sozcukler) dizininde yer alıyor:
+
+- [./tdk-sitesinden-sozcukler](./tdk-sitesinden-sozcukler)
+  - [abajur.json](./tdk-sitesinden-sozcukler/abajur.json)
+  - [abartmak.json](./tdk-sitesinden-sozcukler/abartmak.json)
+  - [abdest.json](./tdk-sitesinden-sozcukler/abdest.json)
+  - [...]
+
+Tüm JSON dosyalarına `"$kitaptaki_turkce"` adlı bir özellik ekleyip kitapta kullanılan "ḳ", "ā", "ū" gibi özel karakterleri korumaya çalıştım. Örn:
+
+```json
+  {
+    "$kitaptaki_turkce": "āferin", <-- Ben ekledim
+    "lehce_id": "61",
+    "asil": "aferin",
+    "turkce": "aferin", [...]
+```
+
+Sonuçları alma sırasında "alay (askerî)" gibi parantez içeren, birden fazla anlamlı sözcük veya virgülle ayrılmış "biri, birisi" gibi sözcükler hata verdi. TDK da sanırım karakter tarama işlemi yapmış ve bazı sözcüklerde hatalar yapmış. Örneğin "muallak (ta)" sözcüğü "muailak (ta)" olarak kaydedilmiş, ya da "zevḳli (iş)", "zevli(iş) " olarak... Tüm bunları elle indirdim veya düzelttim.
+
+**YAP:** Hala eksik sözcükler var: [YAP--eksik-sozcukler.txt](./YAP--eksik-sozcukler.txt)

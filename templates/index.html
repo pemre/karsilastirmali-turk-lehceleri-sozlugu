@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>TDK JSON Sonuçları</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 6px 10px;
+        }
+        th {
+            background-color: #eee;
+        }
+    </style>
+</head>
+<body>
+<h1>TDK JSON Sonuçları</h1>
+{% for item in results %}
+<h2>{{ item.file }}</h2>
+<table>
+    <thead>
+    <tr>
+        <th>Alan</th>
+        <th>Değer</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for key, value in item.record.items() %}
+    <tr>
+        <td>{{ key }}</td>
+        <td>{{ value }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endfor %}
+</body>
+</html>
